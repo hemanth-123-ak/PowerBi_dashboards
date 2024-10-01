@@ -1,1 +1,1 @@
-# PowerBi_dashboards_Major Project
+# PowerBi_dashboards_Project
